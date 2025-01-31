@@ -1,70 +1,119 @@
-# Getting Started with Create React App
+# Data-Structures-Algorithms-Visualiser
+This is a frontend project to visualise Data Structures and Algorithms based on roadmap.sh using React.
+<br>
+> The link to roadmap.sh's Data Structures and Algorithms: [https://roadmap.sh/datastructures-and-algorithms](https://roadmap.sh/datastructures-and-algorithms)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## List of Included Topics
+#### Basic Data Structures
+- Array
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
 
-## Available Scripts
+#### Algorithmic Complexity
+- Time vs Space Complexity
+- How to Calculate Complexity?
+- Common Runtimes
+    - Constant
+    - Logarithmic
+    - Linear
+    - Polynomial
+    - Exponential
+    - Factorial
+- Asymptotic Notation
+    - Big O Notation
+    - Big Theta Notation
+    - Big Omega Notation
+    
+    
+#### Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Counting Sort
+- Heap Sort
+- Radix Sort
+- Bucket Sort
 
-In the project directory, you can run:
 
-### `npm start`
+#### Search Algorithms
+- Linear Search
+- Binary Search
+- Jump Search
+- Interpolation Search
+- Exponential Search
+- Ternary Search
+- Fibonacci Search
+- Sublist Search (Search a linked list in another list)
+- The Ubiquitous Binary Search
+- Recursive program to linearly search an element in a given array
+- Recursive function to do substring search
+- Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Tree Data Structures
+- Binary Trees
+- Binary Search Trees
+- AVL Trees
+- B-Trees
+- Tree Traversal
+    - In-Order Traversal
+    - Pre-Order Traversal
+    - Post-Order Traversal
+- Search Algorithms
+    - Breadth First Search
+    - Depth First Search
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Graph Data Structure
+- Directed Graph
+- Undirected Graph
+- Search Algorithms
+    - Breadth First Search
+    - Depth First Search
+- Shortest Path Algorithms
+    - Djikstra's Algorithm
+    - Bellman-Ford Algorithm
+- Minimum Spanning Tree
+    - Prim's Algorithm
+    - Kruskal's Algorithm
+- Maximum Flow
+    - Ford-Fulkerson Algorithm
+    - Edmonds-Karp Algorithm
 
-### `npm run build`
+#### Advanced Data Structures
+- Trie
+- Segment Trees
+- Fenwick Trees
+- Disjoint Set (Union-Find)
+- Suffix Trees and Arrays
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Complex Data Structures
+- B/B+ Trees
+- Skip List
+- ISAM (Indexed Sequential Access Method)
+- 2-3 Trees
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Indexing
+- Linear Indexing
+- Tree-Based Indexing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+#### Problem Solving Techniques
+- Brute Force
+- Backtracking
+- Greedy Algorithms
+- Randomised Algorithms
+- Divide and Conquer
+- Recursion
+- Dynamic Programming
+- Two Pointer Technique
+- Sliding Window Technique
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
