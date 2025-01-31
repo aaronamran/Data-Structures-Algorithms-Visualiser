@@ -1,0 +1,27 @@
+.header {
+	background-color:rgba(33, 54, 189, 0.9);
+	padding: 1rem;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 0;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 0.5rem 0.5rem; 
+    border: 1px solid white; 
+    border-radius: 8px; 
+    background-color: rgba(33, 54, 189, 0.9); 
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+    background-color: rgb(53, 110, 235); 
+}
